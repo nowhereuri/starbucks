@@ -343,6 +343,15 @@ footer .copyright {
   text-align: center;
   margin-top: 23px;
 }
+footer .copyright .img {
+  width: 110px;
+  height: 15px;
+  margin: 30px auto;
+}
 footer .logo {
+  display: block;
+  position: flex;
+  justify-content: center;
+  align-items: center;
   margin: 30px auto 0;
 }
